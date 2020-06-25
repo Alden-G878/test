@@ -1,2 +1,2 @@
 # test
-this is a test, nothing of not will happen here
+this is a test, nothing of note will happen here
